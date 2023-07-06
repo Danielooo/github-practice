@@ -20,6 +20,9 @@ function App() {
         <h2>-- branch frontpage potato --</h2>
         <p>-- text broccoli --</p>
         <p>-- text banana --</p>
+
+        <h2>-- branch frontpage sellery</h2>
+        <p>-- text plum</p>
       </header>
     </div>
   );
