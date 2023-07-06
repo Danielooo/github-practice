@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <h2>-- branch frontpage potato --</h2>
+        <p>-- text broccoli --</p>
       </header>
     </div>
   );
