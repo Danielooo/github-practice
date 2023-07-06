@@ -23,6 +23,7 @@ function App() {
 
         <h2>-- branch frontpage sellery</h2>
         <p>-- text plum</p>
+        <p>-- text apple</p>
       </header>
     </div>
   );
