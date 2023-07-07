@@ -17,13 +17,10 @@ function App() {
         >
           Learn React
         </a>
-        <h2>-- branch frontpage potato --</h2>
-        <p>-- text broccoli --</p>
-        <p>-- text banana --</p>
 
-        <h2>-- branch frontpage sellery</h2>
-        <p>-- text plum</p>
-        <p>-- text apple</p>
+        <h2>-- text kiwi -- </h2>
+        <h2>-- text coconut --</h2>
+
       </header>
     </div>
   );
